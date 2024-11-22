@@ -13,8 +13,8 @@ configuracion:
 ```
 window._config = {
     cognito: {
-        userPoolId: 'us-east-1_p87gmBOb0', // e.g. us-east-2_uXboG5pAb
-        userPoolClientId: '41k2d90u0j5uphvt2ms2anc7r8', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
+        userPoolId: 'us-east-1_RM2RTbayN', // e.g. us-east-2_uXboG5pAb
+        userPoolClientId: '5uofcghhngbrto53vcn40kr39g', // e.g. 25ddkmj4v6hfsfvruhpfi7n4hv
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
@@ -22,3 +22,11 @@ window._config = {
     }
 };
 ```
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+
+## Modulo 3
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
+![img_10.png](img_10.png)
+![img_11.png](img_11.png)
